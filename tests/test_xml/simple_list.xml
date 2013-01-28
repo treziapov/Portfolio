@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa12-cs242/reziapo1">
+<entry
+   kind="dir">
+<name>Test</name>
+<commit
+   revision="1000">
+<author>author</author>
+<date>2012-10-11T19:37:57.290263Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Test/test.java</name>
+<size>100</size>
+<commit
+   revision="1000">
+<author>author</author>
+<date>2012-10-11T19:37:57.290263Z</date>
+</commit>
+</entry>
+</list>
+</lists>

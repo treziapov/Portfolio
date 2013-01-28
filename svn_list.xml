@@ -1,0 +1,1990 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa12-cs242/reziapo1">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.gitignore</name>
+<size>44</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/app.yaml</name>
+<size>243</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/blog.py</name>
+<size>9987</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/index.yaml</name>
+<size>632</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/static</name>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/static/main.css</name>
+<size>1367</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/static/untitled folder</name>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/templates</name>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/base.html</name>
+<size>563</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/front.html</name>
+<size>143</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/login-form.html</name>
+<size>749</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/newpost.html</name>
+<size>420</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/permalink.html</name>
+<size>89</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/post.html</name>
+<size>275</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/rot13-form.html</name>
+<size>321</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/signup-form.html</name>
+<size>1380</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/templates/welcome.html</name>
+<size>140</size>
+<commit
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>372</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>373</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.settings</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin/mazelib</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin/mazelib/data</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/data/AStarAlgorithm.class</name>
+<size>6087</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/data/Maze.class</name>
+<size>6789</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/data/MazeSolver.class</name>
+<size>855</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/data/Node.class</name>
+<size>3657</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/data/Position.class</name>
+<size>1592</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin/mazelib/tests</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/tests/AStarAlgorithmTest.class</name>
+<size>4097</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/tests/MazeTest.class</name>
+<size>5341</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/tests/NodeTest.class</name>
+<size>5580</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/mazelib/tests/PositionTest.class</name>
+<size>1848</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/mazelib</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/mazelib/data</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/data/AStarAlgorithm.java</name>
+<size>7937</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/data/Maze.java</name>
+<size>8968</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/data/MazeSolver.java</name>
+<size>1060</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/data/Node.java</name>
+<size>4722</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/data/Position.java</name>
+<size>1982</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/mazelib/tests</name>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/tests/AStarAlgorithmTest.java</name>
+<size>4859</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/tests/MazeTest.java</name>
+<size>5228</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/tests/NodeTest.java</name>
+<size>6903</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/mazelib/tests/PositionTest.java</name>
+<size>2249</size>
+<commit
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="3747">
+<author>reziapo1</author>
+<date>2012-09-13T19:32:07.876305Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.classpath</name>
+<size>372</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.project</name>
+<size>372</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.settings</name>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>79489</size>
+<commit
+   revision="3747">
+<author>reziapo1</author>
+<date>2012-09-13T19:32:07.876305Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin</name>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/mazelib</name>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/mazelib/data</name>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/data/AStarAlgorithm.class</name>
+<size>6087</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/data/Maze.class</name>
+<size>6789</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/data/MazeSolver.class</name>
+<size>855</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/data/Node.class</name>
+<size>3657</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/data/Position.class</name>
+<size>1592</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/mazelib/tests</name>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/tests/AStarAlgorithmTest.class</name>
+<size>4097</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/tests/MazeTest.class</name>
+<size>5341</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/tests/NodeTest.class</name>
+<size>5580</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/mazelib/tests/PositionTest.class</name>
+<size>1848</size>
+<commit
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/mazelib</name>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/mazelib/data</name>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/AStarAlgorithm.java</name>
+<size>4694</size>
+<commit
+   revision="3710">
+<author>reziapo1</author>
+<date>2012-09-13T17:52:56.546366Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/DiagonalDistance.java</name>
+<size>1015</size>
+<commit
+   revision="3712">
+<author>reziapo1</author>
+<date>2012-09-13T17:58:47.347961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/DijkstrasAlgorithm.java</name>
+<size>3177</size>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/EuclideanDistance.java</name>
+<size>1428</size>
+<commit
+   revision="3708">
+<author>reziapo1</author>
+<date>2012-09-13T17:45:46.849196Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/Heuristic.java</name>
+<size>530</size>
+<commit
+   revision="3416">
+<author>reziapo1</author>
+<date>2012-09-13T00:43:02.233743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/ManhattanDistance.java</name>
+<size>1223</size>
+<commit
+   revision="3708">
+<author>reziapo1</author>
+<date>2012-09-13T17:45:46.849196Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/Maze.java</name>
+<size>8876</size>
+<commit
+   revision="3416">
+<author>reziapo1</author>
+<date>2012-09-13T00:43:02.233743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/MazeSolver.java</name>
+<size>2846</size>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/Node.java</name>
+<size>6014</size>
+<commit
+   revision="3416">
+<author>reziapo1</author>
+<date>2012-09-13T00:43:02.233743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/data/Position.java</name>
+<size>1981</size>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/mazelib/tests</name>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/tests/AStarAlgorithmTest.java</name>
+<size>8571</size>
+<commit
+   revision="3712">
+<author>reziapo1</author>
+<date>2012-09-13T17:58:47.347961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/tests/DijkstrasAlgorithmTest.java</name>
+<size>8535</size>
+<commit
+   revision="3712">
+<author>reziapo1</author>
+<date>2012-09-13T17:58:47.347961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/tests/HeuristicsTest.java</name>
+<size>5460</size>
+<commit
+   revision="3707">
+<author>reziapo1</author>
+<date>2012-09-13T17:45:31.260068Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/tests/MazeTest.java</name>
+<size>5677</size>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/tests/NodeTest.java</name>
+<size>8132</size>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/mazelib/tests/PositionTest.java</name>
+<size>2852</size>
+<commit
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.classpath</name>
+<size>465</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.project</name>
+<size>372</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.settings</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>79489</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/images</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/maze0.bmp</name>
+<size>77878</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/maze1.bmp</name>
+<size>77878</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/maze2.bmp</name>
+<size>77878</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/soln_maze0.bmp</name>
+<size>230454</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/soln_maze1.bmp</name>
+<size>230454</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/soln_maze2.bmp</name>
+<size>230454</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/mazelib</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/mazelib/data</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/AStarAlgorithm.java</name>
+<size>4753</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/DiagonalDistance.java</name>
+<size>1015</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/DijkstrasAlgorithm.java</name>
+<size>3234</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/EuclideanDistance.java</name>
+<size>1428</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/Heuristic.java</name>
+<size>530</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/ManhattanDistance.java</name>
+<size>1223</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/Maze.java</name>
+<size>11539</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/MazeConsole.java</name>
+<size>6379</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/MazeSolver.java</name>
+<size>3503</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/Node.java</name>
+<size>6014</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/data/Position.java</name>
+<size>1981</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/mazelib/tests</name>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/AStarAlgorithmTest.java</name>
+<size>8627</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/DijkstrasAlgorithmTest.java</name>
+<size>8591</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/HeuristicsTest.java</name>
+<size>5467</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/MazeMockTestIO.java</name>
+<size>3011</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/MazeTest.java</name>
+<size>6275</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/MazeTestIO.java</name>
+<size>5106</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/NodeTest.java</name>
+<size>8139</size>
+<commit
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/mazelib/tests/PositionTest.java</name>
+<size>2852</size>
+<commit
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3</name>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.classpath</name>
+<size>465</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.project</name>
+<size>372</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/.settings</name>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Doxyfile</name>
+<size>79489</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/bin</name>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/bin/java.policy.applet</name>
+<size>141</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src</name>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/mazelib</name>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/mazelib/data</name>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/AStarAlgorithm.java</name>
+<size>4753</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/DiagonalDistance.java</name>
+<size>1015</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/DijkstrasAlgorithm.java</name>
+<size>3234</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/EuclideanDistance.java</name>
+<size>1428</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/ExampleGUI.java</name>
+<size>2035</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/Glue.java</name>
+<size>250</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/Heuristic.java</name>
+<size>530</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/ManhattanDistance.java</name>
+<size>1223</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/Maze.java</name>
+<size>12149</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/MazeConsole.java</name>
+<size>6379</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/MazeInterfaceControl.java</name>
+<size>3467</size>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/MazeInterfaceModel.java</name>
+<size>3576</size>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/MazeInterfaceView.java</name>
+<size>9803</size>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/MazeSolver.java</name>
+<size>3877</size>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/Node.java</name>
+<size>6014</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/data/Position.java</name>
+<size>1981</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/mazelib/tests</name>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/AStarAlgorithmTest.java</name>
+<size>8627</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/DijkstrasAlgorithmTest.java</name>
+<size>8591</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/HeuristicsTest.java</name>
+<size>5467</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/MazeMockTestIO.java</name>
+<size>3011</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/MazeTest.java</name>
+<size>6275</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/MazeTestIO.java</name>
+<size>5106</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/ModelTest.java</name>
+<size>2516</size>
+<commit
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/NodeTest.java</name>
+<size>8139</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/mazelib/tests/PositionTest.java</name>
+<size>2852</size>
+<commit
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6814">
+<author>reziapo1</author>
+<date>2012-10-04T19:39:51.270334Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.buildpath</name>
+<size>188</size>
+<commit
+   revision="6605">
+<author>reziapo1</author>
+<date>2012-10-04T01:05:42.480467Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.project</name>
+<size>594</size>
+<commit
+   revision="6605">
+<author>reziapo1</author>
+<date>2012-10-04T01:05:42.480467Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAirData.json</name>
+<size>16098</size>
+<commit
+   revision="6605">
+<author>reziapo1</author>
+<date>2012-10-04T01:05:42.480467Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/bundle.rb</name>
+<size>693</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/cache.en_US.yml</name>
+<size>3203</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/commands</name>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/commands/commands.rb</name>
+<size>453</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/console.rb</name>
+<size>2232</size>
+<commit
+   revision="6814">
+<author>reziapo1</author>
+<date>2012-10-04T19:39:51.270334Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph.rb</name>
+<size>8027</size>
+<commit
+   revision="6814">
+<author>reziapo1</author>
+<date>2012-10-04T19:39:51.270334Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map.gif</name>
+<size>40100</size>
+<commit
+   revision="6814">
+<author>reziapo1</author>
+<date>2012-10-04T19:39:51.270334Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/node.rb</name>
+<size>1199</size>
+<commit
+   revision="6793">
+<author>reziapo1</author>
+<date>2012-10-04T18:22:14.958331Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/samples</name>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/samples/local_sample.zip</name>
+<size>231</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/samples/project_samples.rb</name>
+<size>292</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/snippets</name>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/snippets/snippets.rb</name>
+<size>217</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/stats.rb</name>
+<size>4491</size>
+<commit
+   revision="6793">
+<author>reziapo1</author>
+<date>2012-10-04T18:22:14.958331Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/templates</name>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/templates/sample_file_template.txt</name>
+<size>314</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/templates/sample_project_template.zip</name>
+<size>391</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/templates/templates.rb</name>
+<size>636</size>
+<commit
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test_graph.rb</name>
+<size>14548</size>
+<commit
+   revision="6793">
+<author>reziapo1</author>
+<date>2012-10-04T18:22:14.958331Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test_stats.rb</name>
+<size>3840</size>
+<commit
+   revision="6793">
+<author>reziapo1</author>
+<date>2012-10-04T18:22:14.958331Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7662">
+<author>reziapo1</author>
+<date>2012-10-11T19:37:57.290263Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.buildpath</name>
+<size>188</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.project</name>
+<size>377</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAirData.json</name>
+<size>16098</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/ExtraData.json</name>
+<size>1102</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/console.rb</name>
+<size>7879</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph.rb</name>
+<size>18532</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/hello.json</name>
+<size>29323</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map.gif</name>
+<size>58132</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/node.rb</name>
+<size>2733</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test_editing.rb</name>
+<size>9657</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test_graph.rb</name>
+<size>21535</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test_node.rb</name>
+<size>3594</size>
+<commit
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test_stats.rb</name>
+<size>12964</size>
+<commit
+   revision="7662">
+<author>reziapo1</author>
+<date>2012-10-11T19:37:57.290263Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="909">
+<author>reziapo1</author>
+<date>2012-08-30T03:58:18.948209Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>57</size>
+<commit
+   revision="850">
+<author>reziapo1</author>
+<date>2012-08-30T03:14:40.327044Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="884">
+<author>reziapo1</author>
+<date>2012-08-30T03:39:45.626343Z</date>
+</commit>
+</entry>
+</list>
+</lists>

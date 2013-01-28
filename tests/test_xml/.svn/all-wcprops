@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/fa12-cs242/!svn/ver/9077/reziapo1/Assignment3.1/test_xml
+END
+simple_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fa12-cs242/!svn/ver/9077/reziapo1/Assignment3.1/test_xml/simple_log.xml
+END
+simple_multirevision_file_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/fa12-cs242/!svn/ver/9077/reziapo1/Assignment3.1/test_xml/simple_multirevision_file_log.xml
+END
+multi_file_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/fa12-cs242/!svn/ver/9077/reziapo1/Assignment3.1/test_xml/multi_file_list.xml
+END
+simple_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/fa12-cs242/!svn/ver/9077/reziapo1/Assignment3.1/test_xml/simple_list.xml
+END
+multi_file_multirevision_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/fa12-cs242/!svn/ver/9077/reziapo1/Assignment3.1/test_xml/multi_file_multirevision_log.xml
+END
+multi_file_multirevision_deleted_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fa12-cs242/!svn/ver/9077/reziapo1/Assignment3.1/test_xml/multi_file_multirevision_deleted_log.xml
+END

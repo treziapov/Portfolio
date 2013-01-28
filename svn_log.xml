@@ -1,0 +1,1454 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7662">
+<author>reziapo1</author>
+<date>2012-10-11T19:37:57.290263Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.1/test_stats.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7661">
+<author>reziapo1</author>
+<date>2012-10-11T19:30:04.531832Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/test_stats.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/map.gif</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/test_graph.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/CSAirData.json</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/graph.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/console.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/test_editing.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/ExtraData.json</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/test_node.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/node.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/.buildpath</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.1/hello.json</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7660">
+<author>reziapo1</author>
+<date>2012-10-11T19:29:40.567221Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment2.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6814">
+<author>reziapo1</author>
+<date>2012-10-04T19:39:51.270334Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/map.gif</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/graph.rb</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/console.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6793">
+<author>reziapo1</author>
+<date>2012-10-04T18:22:14.958331Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/test_stats.rb</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/stats.rb</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/map.gif</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/test_graph.rb</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/graph.rb</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/console.rb</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/node.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6605">
+<author>reziapo1</author>
+<date>2012-10-04T01:05:42.480467Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/test_stats.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/stats.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/map.gif</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/test_graph.rb</path>
+<path
+   kind="file"
+   action="R">/reziapo1/Assignment2.0/CSAirData.json</path>
+<path
+   kind="file"
+   action="D">/reziapo1/Assignment2.0/Graph.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/graph.rb</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/.project</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/console.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/node.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/.buildpath</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6434">
+<author>reziapo1</author>
+<date>2012-09-30T17:58:24.946250Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment2.0/Graph.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6417">
+<author>reziapo1</author>
+<date>2012-09-29T21:55:26.624782Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/.project</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/templates/sample_file_template.txt</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment2.0/templates</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/templates/templates.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/samples/local_sample.zip</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/samples/project_samples.rb</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment2.0/commands</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/templates/sample_project_template.zip</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/CSAirData.json</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/Graph.rb</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment2.0/samples</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/commands/commands.rb</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment2.0/snippets</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/bundle.rb</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/cache.en_US.yml</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment2.0/snippets/snippets.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6416">
+<author>reziapo1</author>
+<date>2012-09-29T21:54:52.984229Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment2.0</path>
+</paths>
+<msg>Share project "Assignment2.0" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/reziapo1"</msg>
+</logentry>
+<logentry
+   revision="6065">
+<author>reziapo1</author>
+<date>2012-09-27T18:58:07.952269Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/ModelTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.3/src/mazelib/data/MazeInterfaceControl.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.3/src/mazelib/data/MazeInterfaceModel.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.3/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.3/src/mazelib/data/MazeInterfaceView.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6026">
+<author>reziapo1</author>
+<date>2012-09-27T16:11:27.100605Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/AStarAlgorithmTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/HeuristicsTest.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.3/.settings</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.3/src</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/Node.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/ManhattanDistance.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/DiagonalDistance.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/Maze.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/PositionTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/Heuristic.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/ExampleGUI.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.3/bin</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/DijkstrasAlgorithm.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.3/src/mazelib</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/MazeTestIO.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/MazeInterfaceControl.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/MazeConsole.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/.project</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/MazeMockTestIO.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/Glue.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/.classpath</path>
+<path
+   kind="dir"
+   action="M">/reziapo1/Assignment1.3</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/MazeInterfaceModel.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/tests/DijkstrasAlgorithmTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/Position.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/EuclideanDistance.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/src/mazelib/data/MazeInterfaceView.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.3/bin/java.policy.applet</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6024">
+<author>reziapo1</author>
+<date>2012-09-27T16:09:30.090261Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.3</path>
+</paths>
+<msg>Share project "Assignment1.3" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/reziapo1"</msg>
+</logentry>
+<logentry
+   revision="4981">
+<author>reziapo1</author>
+<date>2012-09-20T19:39:09.382150Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/tests/AStarAlgorithmTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/tests/HeuristicsTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/MazeTestIO.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/MazeConsole.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/images/soln_maze0.bmp</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/MazeMockTestIO.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/images/soln_maze1.bmp</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="dir"
+   action="D">/reziapo1/Assignment1.2/bin/mazelib</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/images/soln_maze2.bmp</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/images/maze0.bmp</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/data/Maze.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/images/maze1.bmp</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/images/maze2.bmp</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/.classpath</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/tests/DijkstrasAlgorithmTest.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/images</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.2/src/mazelib/data/DijkstrasAlgorithm.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4452">
+<author>reziapo1</author>
+<date>2012-09-17T19:41:50.587603Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/DijkstrasAlgorithm.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/AStarAlgorithmTest.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/.settings</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/HeuristicsTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/tests/AStarAlgorithmTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/.project</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/AStarAlgorithm.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/ManhattanDistance.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/tests/MazeTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/ManhattanDistance.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/MazeSolver.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/PositionTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/.classpath</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/Heuristic.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/Maze.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/Position.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/bin</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/src/mazelib</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/tests/HeuristicsTest.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/tests/NodeTest.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/Node.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/DiagonalDistance.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/Node.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/Maze.java</path>
+<path
+   kind="dir"
+   action="M">/reziapo1/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/DiagonalDistance.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests/DijkstrasAlgorithmTest.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/tests/PositionTest.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/tests/DijkstrasAlgorithmTest.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/Heuristic.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/EuclideanDistance.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/data/DijkstrasAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/Position.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.2/bin/mazelib/data/EuclideanDistance.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/src/mazelib/tests</path>
+</paths>
+<msg>Assignment 1.2 Beginning</msg>
+</logentry>
+<logentry
+   revision="4451">
+<author>reziapo1</author>
+<date>2012-09-17T19:39:41.724781Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/reziapo1"</msg>
+</logentry>
+<logentry
+   revision="4450">
+<author>reziapo1</author>
+<date>2012-09-17T19:36:28.615567Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/reziapo1/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4449">
+<author>reziapo1</author>
+<date>2012-09-17T19:34:32.510253Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.2/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/reziapo1/Assignment1.2"</msg>
+</logentry>
+<logentry
+   revision="3747">
+<author>reziapo1</author>
+<date>2012-09-13T19:32:07.876305Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3746">
+<author>reziapo1</author>
+<date>2012-09-13T19:31:55.469924Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/PositionTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/Position.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/DijkstrasAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/MazeSolver.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3713">
+<author>reziapo1</author>
+<date>2012-09-13T18:00:52.077181Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3712">
+<author>reziapo1</author>
+<date>2012-09-13T17:58:47.347961Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/DijkstrasAlgorithmTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/DiagonalDistance.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/AStarAlgorithmTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3710">
+<author>reziapo1</author>
+<date>2012-09-13T17:52:56.546366Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/DijkstrasAlgorithmTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/AStarAlgorithmTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3708">
+<author>reziapo1</author>
+<date>2012-09-13T17:45:46.849196Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/EuclideanDistance.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/DijkstrasAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/ManhattanDistance.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/MazeSolver.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3707">
+<author>reziapo1</author>
+<date>2012-09-13T17:45:31.260068Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/tests/HeuristicsTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/tests/DijkstrasAlgorithmTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/tests/AStarAlgorithmTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3416">
+<author>reziapo1</author>
+<date>2012-09-13T00:43:02.233743Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/Maze.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/Heuristic.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/EuclideanDistance.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/Position.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/DijkstrasAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/Node.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/ManhattanDistance.java</path>
+<path
+   kind="file"
+   action="M">/reziapo1/Assignment1.1/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/DiagonalDistance.java</path>
+</paths>
+<msg>Checked for errors and refactored all data classes.</msg>
+</logentry>
+<logentry
+   revision="3182">
+<author>reziapo1</author>
+<date>2012-09-11T02:45:38.897890Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>Doxyfile added</msg>
+</logentry>
+<logentry
+   revision="3168">
+<author>reziapo1</author>
+<date>2012-09-11T01:01:26.310591Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/tests/AStarAlgorithmTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/tests/NodeTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/Node.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/data/AStarAlgorithm.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/tests/MazeTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/data/Node.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/data/MazeSolver.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/Maze.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/tests/PositionTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/data/Maze.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/tests/PositionTest.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/data/Position.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/bin</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/src/mazelib</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/bin/mazelib/data/Position.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.1/src/mazelib/tests/AStarAlgorithmTest.java</path>
+</paths>
+<msg>Commit No. 1
+A duplicate of Assignment 1.0 to start with</msg>
+</logentry>
+<logentry
+   revision="3167">
+<author>reziapo1</author>
+<date>2012-09-11T01:00:46.018032Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.1</path>
+</paths>
+<msg>Share project "Assignment1.1" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/reziapo1"</msg>
+</logentry>
+<logentry
+   revision="3166">
+<author>reziapo1</author>
+<date>2012-09-11T00:58:41.516417Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/reziapo1/Assignment 1.1</path>
+</paths>
+<msg>Deleting project dir</msg>
+</logentry>
+<logentry
+   revision="3165">
+<author>reziapo1</author>
+<date>2012-09-11T00:53:46.146783Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/tests/AStarAlgorithmTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/.project</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/tests/NodeTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/src</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/data/Node.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/data/AStarAlgorithm.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/tests/MazeTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/data/Node.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/data/MazeSolver.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/data/Maze.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/tests/PositionTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/data/Maze.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/tests/PositionTest.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/data/Position.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/bin</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/bin/mazelib/data/Position.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment 1.1/src/mazelib/tests/AStarAlgorithmTest.java</path>
+</paths>
+<msg>Commit No. 1
+Simple Assignment 1.0 Duplicate</msg>
+</logentry>
+<logentry
+   revision="3164">
+<author>reziapo1</author>
+<date>2012-09-11T00:53:01.349753Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment 1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2605">
+<author>reziapo1</author>
+<date>2012-09-06T19:56:19.380625Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/tests/AStarAlgorithmTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/.project</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/data/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/tests/NodeTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/tests/MazeTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/data/Node.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/data/AStarAlgorithm.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/data/MazeSolver.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/data/Node.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/tests/MazeTest.class</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/data/Maze.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/data/MazeSolver.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/tests/PositionTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/.classpath</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/data</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/data/Maze.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/tests/PositionTest.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/data/Position.java</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/bin</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/src/mazelib</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/tests</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/bin/mazelib/data/Position.class</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/src/mazelib/tests/AStarAlgorithmTest.java</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0/.settings</path>
+</paths>
+<msg>Assignment 1.0</msg>
+</logentry>
+<logentry
+   revision="1890">
+<author>reziapo1</author>
+<date>2012-09-02T04:28:57.139788Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment1.0</path>
+</paths>
+<msg>Created new folder for Assignment 1.0</msg>
+</logentry>
+<logentry
+   revision="1221">
+<author>reziapo1</author>
+<date>2012-08-30T18:31:44.935529Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/app.yaml</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/permalink.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/post.html</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment0/static</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/front.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/welcome.html</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment0/templates</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment0</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/newpost.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/static/main.css</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/.gitignore</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/signup-form.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/index.yaml</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/blog.py</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/login-form.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/rot13-form.html</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment0/static/untitled folder</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/base.html</path>
+</paths>
+<msg>Later version</msg>
+</logentry>
+<logentry
+   revision="1220">
+<author>reziapo1</author>
+<date>2012-08-30T18:30:20.494598Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/reziapo1/Assignment0</path>
+</paths>
+<msg>Deleting old version</msg>
+</logentry>
+<logentry
+   revision="978">
+<author>reziapo1</author>
+<date>2012-08-30T04:57:21.926863Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/app.yaml</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/permalink.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/post.html</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment0/static</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/front.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/welcome.html</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment0/templates</path>
+<path
+   kind="dir"
+   action="A">/reziapo1/Assignment0</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/newpost.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/static/main.css</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/signup-form.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/index.yaml</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/blog.py</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/login-form.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/rot13-form.html</path>
+<path
+   kind="file"
+   action="A">/reziapo1/Assignment0/templates/base.html</path>
+</paths>
+<msg>Submission #1</msg>
+</logentry>
+<logentry
+   revision="909">
+<author>reziapo1</author>
+<date>2012-08-30T03:58:18.948209Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/reziapo1/shopping</path>
+</paths>
+<msg>Ignore list3 from all future commits</msg>
+</logentry>
+<logentry
+   revision="895">
+<author>reziapo1</author>
+<date>2012-08-30T03:44:49.009709Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/reziapo1/grocery"
+   copyfrom-rev="894"
+   action="A">/reziapo1/shopping</path>
+<path
+   kind="dir"
+   action="D">/reziapo1/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="890">
+<author>reziapo1</author>
+<date>2012-08-30T03:42:40.714759Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/reziapo1/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="886">
+<author>reziapo1</author>
+<date>2012-08-30T03:41:17.694262Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/reziapo1/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="884">
+<author>reziapo1</author>
+<date>2012-08-30T03:39:45.626343Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="878">
+<author>reziapo1</author>
+<date>2012-08-30T03:36:23.304461Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="874">
+<author>reziapo1</author>
+<date>2012-08-30T03:34:22.963117Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="872">
+<author>reziapo1</author>
+<date>2012-08-30T03:32:56.421903Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="869">
+<author>reziapo1</author>
+<date>2012-08-30T03:26:05.826292Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="857">
+<author>reziapo1</author>
+<date>2012-08-30T03:20:41.832733Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>oops</msg>
+</logentry>
+<logentry
+   revision="854">
+<author>reziapo1</author>
+<date>2012-08-30T03:17:54.363767Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="850">
+<author>reziapo1</author>
+<date>2012-08-30T03:14:40.327044Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="843">
+<author>reziapo1</author>
+<date>2012-08-30T03:07:46.808666Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1/grocery</path>
+<path
+   kind="file"
+   action="A">/reziapo1/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/reziapo1/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="121">
+<author>root</author>
+<date>2012-08-23T19:30:26.491265Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/reziapo1</path>
+</paths>
+<msg>created directory reziapo1</msg>
+</logentry>
+</log>

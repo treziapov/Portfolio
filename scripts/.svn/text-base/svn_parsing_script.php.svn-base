@@ -1,0 +1,7 @@
+<?php
+
+	require "parser.php";
+	$projects_hash = parse_svn_list("svn_list.xml");
+	parse_svn_log("svn_log.xml", $projects_hash);
+
+?>

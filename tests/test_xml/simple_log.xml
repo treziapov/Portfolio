@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="1000">
+<author>author</author>
+<date>2012-10-11T19:37:57.290263Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/reziapo1/Test/test.java</path>
+</paths>
+<msg>Message</msg>
+</logentry>
+</log>

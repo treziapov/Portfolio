@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+	   revision="1000">
+	<author>author</author>
+	<date>2012-10-11T19:37:57.290263Z</date>
+	<paths>
+	<path
+	   kind="file"
+	   action="M">/reziapo1/Test/test3.java</path>
+	</paths>
+	<msg>Last</msg>
+</logentry>
+<logentry
+	   revision="999">
+	<author>author</author>
+	<date>2012-10-09T19:37:57.290263Z</date>
+	<paths>
+	<path
+	   kind="file"
+	   action="M">/reziapo1/Test/test3.java</path>
+	<path
+	   kind="file"
+	   action="M">/reziapo1/Test/test2.java</path>
+	</paths>
+	<msg>Middle</msg>
+</logentry>
+<logentry
+	   revision="998">
+	<author>author</author>
+	<date>2012-10-07T19:37:57.290263Z</date>
+	<paths>
+	<path
+	   kind="file"
+	   action="M">/reziapo1/Test/test3.java</path>
+	<path
+	   kind="file"
+	   action="M">/reziapo1/Test/test2.java</path>
+	<path
+	   kind="file"
+	   action="M">/reziapo1/Test/test1.java</path>
+	<path
+	   kind="file"
+	   action="D">/reziapo1/Test/deleted.java</path>
+	</paths>
+	<msg>First</msg>
+</logentry>
+</log>
