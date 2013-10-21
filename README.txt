@@ -34,8 +34,6 @@ MySQL Databse Schema:
 	INSERT INTO RedFlags (actual, filter) VALUES ("hello", "hi");
 	INSERT INTO RedFlags (actual, filter) VALUES ("hell", "oops");
 	INSERT INTO RedFlags (actual, filter) VALUES ("you", "you, sir,");
-	INSERT INTO RedFlags (actual, filter) VALUES ("shit", "****");
-	INSERT INTO RedFlags (actual, filter) VALUES ("fuck", "****");
 
 
 
